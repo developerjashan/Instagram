@@ -101,4 +101,7 @@ body {
 input:focus {
     background-color: yellow;
 }
+.todo container{
+    background-color: white;
+}
 
