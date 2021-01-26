@@ -176,3 +176,4 @@ for(i=0;i<linkCollapse.length;i++){
     rotate.classList.toggle('rotate')
   })
 }
+console.log
